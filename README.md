@@ -1,0 +1,2 @@
+# AlgorithmForCalc
+ACMみたいなアルゴリズム
